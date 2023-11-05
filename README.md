@@ -36,11 +36,11 @@ Fibonacci Sequence (Deret angka Fibonacci) adalah deret angka yang diperoleh den
 
 Pada layout ini, saya membuat tiga button dan satu textview :
 
-- ```button_limit```, berfungsi sebagai tombol “Set Limit” yang nantinya ketika di tekan akan muncul sebuah pop-up untuk masukan limit angka yang ingin kita hitung.
+- ```button_maksimum fibonacci```, berfungsi sebagai tombol “Set Limit” yang nantinya ketika di tekan akan muncul sebuah pop-up untuk masukan limit angka yang ingin kita hitung.
 
 - ```button_count```, berfungsi sebagai tombol “count” yang nantinya ketika tombol ditekan akan menghitung bilangan fibonaccinya sesuai dengan yang kita limit. Juga berbeda warna pada setiap angka, agar tidak keliru.
   
-- ```button_restart```, berfungsi sebagai tombol restart yang nantinya angka akan kembali ke awal.
+- ```button_back```, berfungsi sebagai tombol back yang nantinya angka akan kembali ke awal.
 
 - ```Textview show_count```, yang berfungsi untuk menampilkan angka atau bilangan fibonaccinya yang tepat berada di tengah.
 
