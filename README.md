@@ -224,7 +224,7 @@ Pada Java class ```MainToast.java``` berisi semua coding untuk menjalankan aplik
           }
       }     
 
-# Output
+  # Output
 
 ![Screenshot (475)](https://github.com/roswanda11/UTS-Pemrograman-Mobile/assets/115516632/53edf921-c8f5-4f85-b7c5-f9cc994729a9)
 
