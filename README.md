@@ -32,7 +32,7 @@ Fibonacci Sequence (Deret angka Fibonacci) adalah deret angka yang diperoleh den
 
 - textView untuk input nilai maximalnya
 
-  # Layout
+ <u> # Layout </u>
 
 Pada layout ini, saya membuat tiga button dan satu textview :
 
@@ -140,7 +140,7 @@ Pada layout ini, saya membuat tiga button dan satu textview :
 
 ![Screenshot (489)](https://github.com/roswanda11/UTS-Pemrograman-Mobile/assets/115516632/d0a478b3-cee4-41a8-804a-38fa8dd918ee)
  
-  # Java Class
+  # Java Class 
 
 Pada Java class ```MainToast.java``` berisi semua coding untuk menjalankan aplikasi. Seperti fungsi untuk tombol-tombol, dialog set limit, warna yang berbeda pada setiap angka, lalu warna background yang bisa berubah dan rumus bilangan fibonacci. ```</androidx.constraintlayout.widget.ConstraintLayout>``` . Berikut adalah coding pada menu layout :
       
@@ -226,30 +226,29 @@ Pada Java class ```MainToast.java``` berisi semua coding untuk menjalankan aplik
 
 # Output
 
-![Screenshot (462)](https://github.com/roswanda11/UTS-Pemrograman-Mobile/assets/115516632/787c399f-6b11-4ddc-879e-b9786acc353c)
+![Screenshot (475)](https://github.com/roswanda11/UTS-Pemrograman-Mobile/assets/115516632/53edf921-c8f5-4f85-b7c5-f9cc994729a9)
 
 ## Masukkan Angka Maksimum Fibonacci
 
-![fibonacci](https://github.com/roswanda11/UTS-Pemrograman-Mobile/assets/115516632/78fc0f32-dd00-4e7a-85d8-bd921ab21d29)
+![Screenshot (476)](https://github.com/roswanda11/UTS-Pemrograman-Mobile/assets/115516632/35f1f696-07cb-4f01-8ed6-585c3b5d852b)
 
 ## Kemudian Klik ```Count```
 
-![Screenshot (464)](https://github.com/roswanda11/UTS-Pemrograman-Mobile/assets/115516632/1665a39b-30cd-46d2-bbb4-da02e23a9e42)
+![Screenshot (478)](https://github.com/roswanda11/UTS-Pemrograman-Mobile/assets/115516632/75b8b013-84ee-4771-95b5-09c41b91e4b0)
 
-![Screenshot (465)](https://github.com/roswanda11/UTS-Pemrograman-Mobile/assets/115516632/163762ca-9169-4792-a21d-bf9d23dcae92)
+![Screenshot (479)](https://github.com/roswanda11/UTS-Pemrograman-Mobile/assets/115516632/d79103bf-58a2-4dc4-8eb6-5f1cde231c39)
 
-![Screenshot (466)](https://github.com/roswanda11/UTS-Pemrograman-Mobile/assets/115516632/69615da1-281d-4a7c-9791-78802824081d)
+![Screenshot (480)](https://github.com/roswanda11/UTS-Pemrograman-Mobile/assets/115516632/2dee2820-4e2b-4e47-9e96-a43a7efed288)
 
-![Screenshot (469)](https://github.com/roswanda11/UTS-Pemrograman-Mobile/assets/115516632/23ebfb28-8c1e-4778-beda-6766a859f5f8)
+![Screenshot (481)](https://github.com/roswanda11/UTS-Pemrograman-Mobile/assets/115516632/2123b539-33cc-4b6c-81a8-58fafb1ed443)
 
-![Screenshot (471)](https://github.com/roswanda11/UTS-Pemrograman-Mobile/assets/115516632/9e3c9119-7dc6-451a-902e-3b6ff931e00a)
+![Screenshot (482)](https://github.com/roswanda11/UTS-Pemrograman-Mobile/assets/115516632/0a31116b-117b-404c-99aa-64cc4142fb94)
 
 ## Ini Adalah Tampilan Ketika Sudah Mencapai Maksimum Fibonacci 
 
-![Screenshot (472)](https://github.com/roswanda11/UTS-Pemrograman-Mobile/assets/115516632/0a7e972a-629d-49ca-a235-6d51aed1a7e4)
+![Screenshot (483)](https://github.com/roswanda11/UTS-Pemrograman-Mobile/assets/115516632/9843d2ab-548e-4ee1-a9eb-d2cf028ab763)
 
 ## Ini adalah Tampilan Ketika Kita Mengklik ```Back```
 
-![Screenshot (487)](https://github.com/roswanda11/UTS-Pemrograman-Mobile/assets/115516632/1336e1f0-2d94-4d78-97de-03020932274e)
-
+![Screenshot (486)](https://github.com/roswanda11/UTS-Pemrograman-Mobile/assets/115516632/c1fefea0-85cb-42a2-9426-e4bf7f036a70)
 
