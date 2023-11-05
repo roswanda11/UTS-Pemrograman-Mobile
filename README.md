@@ -135,7 +135,11 @@ Pada layout ini, saya membuat tiga button dan satu textview :
               tools:ignore="RtlCompat" />
       
       </androidx.constraintlayout.widget.ConstraintLayout>
-      
+
+  # Output
+
+![Screenshot (489)](https://github.com/roswanda11/UTS-Pemrograman-Mobile/assets/115516632/d0a478b3-cee4-41a8-804a-38fa8dd918ee)
+ 
   # Java Class
 
 Pada Java class ```MainToast.java``` berisi semua coding untuk menjalankan aplikasi. Seperti fungsi untuk tombol-tombol, dialog set limit, warna yang berbeda pada setiap angka, lalu warna background yang bisa berubah dan rumus bilangan fibonacci. ```</androidx.constraintlayout.widget.ConstraintLayout>``` . Berikut adalah coding pada menu layout :
@@ -245,3 +249,7 @@ Pada Java class ```MainToast.java``` berisi semua coding untuk menjalankan aplik
 ![Screenshot (472)](https://github.com/roswanda11/UTS-Pemrograman-Mobile/assets/115516632/0a7e972a-629d-49ca-a235-6d51aed1a7e4)
 
 ## Ini adalah Tampilan Ketika Kita Mengklik ```Back```
+
+![Screenshot (487)](https://github.com/roswanda11/UTS-Pemrograman-Mobile/assets/115516632/1336e1f0-2d94-4d78-97de-03020932274e)
+
+
