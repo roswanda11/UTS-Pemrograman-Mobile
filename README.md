@@ -44,6 +44,8 @@ Pada layout ini, saya membuat tiga button dan satu textview :
 
 - ```Textview show_count```, yang berfungsi untuk menampilkan angka atau bilangan fibonaccinya yang tepat berada di tengah.
 
+Berikut adalah coding pada menu layout:
+
       <?xml version="1.0" encoding="utf-8"?>
       <androidx.constraintlayout.widget.ConstraintLayout
           xmlns:android="http://schemas.android.com/apk/res/android"
@@ -142,7 +144,7 @@ Pada layout ini, saya membuat tiga button dan satu textview :
  
   # Java Class 
 
-Pada Java class ```MainToast.java``` berisi semua coding untuk menjalankan aplikasi. Seperti fungsi untuk tombol-tombol, dialog set limit, warna yang berbeda pada setiap angka, lalu warna background yang bisa berubah dan rumus bilangan fibonacci. ```</androidx.constraintlayout.widget.ConstraintLayout>``` . Berikut adalah coding pada menu layout :
+Pada Java class ```MainToast.java``` berisi semua coding untuk menjalankan aplikasi. Seperti fungsi untuk tombol-tombol, dialog set limit, warna yang berbeda pada setiap angka, lalu warna background yang bisa berubah dan rumus bilangan fibonacci. ```</androidx.constraintlayout.widget.ConstraintLayout>``` . Berikut adalah coding pada menu java :
       
        package com.hellotoast;
       
