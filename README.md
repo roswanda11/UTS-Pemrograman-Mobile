@@ -32,7 +32,7 @@ Fibonacci Sequence (Deret angka Fibonacci) adalah deret angka yang diperoleh den
 
 - textView untuk input nilai maximalnya
 
- <u> # Layout </u>
+ # Layout
 
 Pada layout ini, saya membuat tiga button dan satu textview :
 
